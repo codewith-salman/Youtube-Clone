@@ -5,7 +5,7 @@
   <h1>📺 YouTube Clone</h1>
   <p>A fully responsive YouTube homepage clone built with HTML, CSS, and JavaScript.</p>
   
-  <img src="YouTube%20Clone/images/ss.png" alt="YouTube Clone Screenshot" width="100%"/>
+  <img src="Youtube%20Clone/images/ss.png" alt="YouTube Clone Screenshot" width="100%"/>
 </div>
 
 ---
